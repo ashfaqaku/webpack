@@ -1,8 +1,13 @@
 ## How to install
 
 ```sh
+npm init rust-webpack
+```
+## How to install dependences
+```sh
 npm install
 ```
+
 
 ## How to run in debug mode
 
